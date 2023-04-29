@@ -1,0 +1,29 @@
+body {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#resultado {
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+    display: inline;
+}
+
+.verde {
+    color: green;
+}
+
+.azul {
+    color: blue;
+}
+
+.rojo {
+    color: red;
+}
